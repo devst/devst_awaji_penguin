@@ -15,7 +15,7 @@ public class FizzBuzz implements features.FizzBuzz {
 			result += "Buzz";
 		}
 		
-		if(result == ""){
+		if(result.equals(""){
 			result = Integer.toString(arg0);
 		}
 		

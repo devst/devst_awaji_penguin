@@ -5,7 +5,7 @@ public class FirstPairWork implements features.FirstPairWork {
 	@Override
 	public String getIkigomi() {
 		// TODO 自動生成されたメソッド・スタブ
-		return null
+		return null;
 	}
 
 	@Override
